@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/api/src/main/java/com/trendster/api/AuthInfo.kt
+/app/google-services.json

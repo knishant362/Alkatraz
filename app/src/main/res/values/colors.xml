@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="purple_veryLight">#0D3700B3</color>
+    <color name="lightGray">#F9F9F9</color>
+    <color name="mediumGray">#D1D1D1</color>
+    <color name="lightMediumGray">#80D1D1D1</color>
+    <color name="darkGray">#4B4B4B</color>
+    <color name="dark">#313C44</color>
+    <color name="darker">#151B20</color>
+    <color name="red">#FF4646</color>
+    <color name="yellow">#FFC114</color>
+    <color name="green">#00C980</color>
+
+    <color name="text_grey">#DE6F6E6E</color>
+
+    <color name="card_blue_dark">#375E97</color>
+    <color name="card_blue_light">#5797F3</color>
+
+    <color name="card_orange">#FB6542</color>
+    <color name="card_orange_light">#FF9B84</color>
+
+    <color name="card_green">#9BC01C</color>
+    <color name="card_green_light">#BDD664</color>
+
+    <color name="card_purple">#7E57C2</color>
+    <color name="card_purple_light">#C7A1FE</color>
+
+
+
+    <color name="colorPrimary">#e8f4ff</color>
+
+
+    <color name="card_yellow">#DAA633</color>
+    <color name="card_yellow_light">#ECCD77</color>
+
+    <color name="card_yellow_bright">#ff9700</color>
+
+    <color name="p_red_light">#fde0e5</color>
+    <color name="p_red_dark">#a05964</color>
+
+    <color name="p_purple_light">#f2f0ff</color>
+    <color name="p_purple_dark">#422eb3</color>
+
+    <color name="p_blue_light">#e8f4ff</color>
+    <color name="p_blue_dark">#1642a2</color>
+
+    <color name="p_green_light">#fefaed</color>
+    <color name="p_green_dark">#396901</color>
+</resources>
